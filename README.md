@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nogthings, Fullstack Developer
 - 👀 I’m interested in web & mobile development
-- [🐱‍👤 Nogx Template]([https://linux.com](https://github.com/Nogthings/vrt-template-ts-nogx))
+- [🐱‍👤 Nogx Template](https://linux.com](https://github.com/Nogthings/vrt-template-ts-nogx))
 - 📫 How to reach me: contact@nogx.dev
 
 <!---
