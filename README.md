@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nogthings
+- 👋 Hi, I’m @Nogthings, Fullstack Developer
 - 👀 I’m interested in web & mobile development
-- 🌱 I’m currently learning flutter and react 
-- 📫 How to reach me: contact@dcave.dev
+- [Nogx Template 🐱‍👤]([https://linux.com](https://github.com/Nogthings/vrt-template-ts-nogx))
+- 📫 How to reach me: contact@nogx.dev
 
 <!---
 Nogthings/Nogthings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
