@@ -4,7 +4,7 @@
 
 I'm Oscar, a Software Engineer based in Culican.
 
-Currently workink as Software Engineer at [Coppel](https://coppel.com)
+Currently working as Software Engineer at [Coppel](https://coppel.com)
 
 - 👋 Hi, I’m @Nogthings, Fullstack Developer
 - 👀 I’m interested in web & mobile development
