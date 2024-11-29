@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://oscargalvez.lat/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059498-bebfd793-1406-47e2-b1a4-bdee5a379823.jpg" alt="my banner"></a>
+</p>
+
 I'm Oscar, a Software Engineer based in Culican.
 
 Currently workink as Software Engineer at [Coppel](https://coppel.com)
@@ -7,9 +11,12 @@ Currently workink as Software Engineer at [Coppel](https://coppel.com)
 - [🐱‍👤 Nogx Template](https://github.com/Nogthings/vrt-template-ts-nogx) my boilerplate based in react, react icons, vite, tailwind and TS.
 - 📫 How to reach me: contact@oscargalvez.lat
 
-## 📈 Stats
+## 📈 Github Stats
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nogthings&theme=dracula![Uploading OSCAR GALVEZ.png…]()
+)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nogthings)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nogthings)](https://github.com/anuraghazra/github-readme-stats) 
+## ⌨️ Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nogthings&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Nogthings/Nogthings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
