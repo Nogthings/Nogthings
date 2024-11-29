@@ -12,7 +12,7 @@ Currently working as Software Engineer at [Coppel](https://coppel.com)
 - 📫 How to reach me: contact@oscargalvez.lat
 
 ## 📈 Github Stats
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nogthings&theme=dracula!)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nogthings&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## ⌨️ Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nogthings&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
