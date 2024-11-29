@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://oscargalvez.lat/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059498-bebfd793-1406-47e2-b1a4-bdee5a379823.jpg" alt="my banner"></a>
+  <a href="https://oscargalvez.lat/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/857f5394-33fc-4bb7-90c5-cfe80078958c" alt="my banner"></a>
 </p>
 
 I'm Oscar, a Software Engineer based in Culican.
