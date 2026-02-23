@@ -1,22 +1,35 @@
-<p align="center">
-  <a href="https://oscargalvez.lat/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/857f5394-33fc-4bb7-90c5-cfe80078958c" alt="my banner"></a>
-</p>
+# 👨‍💻 Nogthings@terminal:~$ whoami
 
-I'm Oscar, a Software Engineer based in Culican.
+Independent Software Consultant & Full-Stack Developer. 
+Focused on building scalable SaaS, TUI applications, and self-hosted solutions.
 
-Currently working as Tech Lead at [Coppel](https://coppel.com)
+---
 
-- 👋 Hi, I’m @Nogthings, Fullstack Developer
-- 👀 I’m interested in web & mobile development
-- [🐱‍👤 Nogx Template](https://github.com/Nogthings/vrt-template-ts-nogx) my boilerplate based in react, react icons, vite, tailwind and TS.
-- 📫 How to reach me: contact@oscargalvez.lat
+### 🚀 Featured Projects
+* **Flavour Hub**: A digital menu SaaS revolutionizing restaurant management.
+* **Spotube**: Desktop music client built with **Flutter**, YouTube audio, and MusicBrainz metadata.
+* **GoBoard**: A TUI application developed in **Go**.
 
-## 📈 Github Stats
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nogthings&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+### 🛠️ Tech Stack & Workflow
+* **Languages:** Go, C#, Dart (Flutter), TypeScript.
+* **Web:** Next.js, Drizzle ORM, PostgreSQL, pnpm.
+* **Environment:** Arch Linux (CachyOS) | Neovim | Zsh.
+* **Infrastructure:** Self-hosting advocate & VPS management.
 
-## ⌨️ Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nogthings&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-Nogthings/Nogthings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📊 GitHub Stats
+![Nogthings's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nogthings&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nogthings&layout=compact&theme=tokyonight)
+
+---
+
+### 📸 Beyond the Code
+When I'm not in Neovim, I'm likely:
+* Capturing moments through my **photography** business.
+* Optimizing my **self-hosted** home lab.
+* Experimenting with new recipes (or building apps to manage them).
+
+---
+
+### 📫 Get in touch
+* **Fiverr:** [Available for hire]
+* **Portfolio:** [Link to your Linktree clone]
