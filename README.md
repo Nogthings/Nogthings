@@ -11,22 +11,22 @@ Focused on building scalable SaaS, TUI applications, and self-hosted solutions.
 * **GoBoard**: A TUI application developed in **Go**.
 
 ### 🛠️ Tech Stack & Workflow
-* **Languages:** Go, C#, Dart (Flutter), TypeScript.
-* **Web:** Next.js, Drizzle ORM, PostgreSQL, pnpm.
-* **Environment:** Arch Linux (CachyOS) | Neovim | Zsh.
-* **Infrastructure:** Self-hosting advocate & VPS management.
+![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?logo=arch-linux&logoColor=white) ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white) ![Go](https://img.shields.io/badge/Backend-Go-00ADD8?logo=go&logoColor=white) ![Next.js](https://img.shields.io/badge/Frontend-Next.js-000000?logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Mobile-Flutter-02569B?logo=flutter&logoColor=white)
+
+* **Data:** Drizzle ORM, PostgreSQL, pnpm.
+* **Environment:** CachyOS | Zsh | Self-hosting advocate.
 
 ### 📊 GitHub Stats
-![Nogthings's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nogthings&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nogthings&layout=compact&theme=tokyonight)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=gruvbox&fontFamily=JetBrains%20Mono&preferLogin=false">    <img  alt="Nogthings's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Nogthings?cardType=level&theme=gruvbox&fontFamily=JetBrains%20Mono&preferLogin=false" />  </a>
 
----
+### 📈 Activity Graph
+![Nogthings Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nogthings&theme=tokyo-night&hide_border=true)
 
 ### 📸 Beyond the Code
 When I'm not in Neovim, I'm likely:
 * Capturing moments through my **photography** business.
 * Optimizing my **self-hosted** home lab.
-* Experimenting with new recipes (or building apps to manage them).
+* Experimenting with new recipes for my app **Portion**.
 
 ---
 
